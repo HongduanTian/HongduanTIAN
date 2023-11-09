@@ -1,4 +1,4 @@
-### Hi there 👋 I am Hongduan Tian
+### Hi there 👋 I am Hongduan Tian 😉
 
 Currently, I am a Ph.D. student @ Trustworthy Machine Learning and Reasoning (TMLR) in the Department of Computer Science, Hong Kong Baptist University, supervised by [Dr. Bo Han](https://bhanml.github.io/index.html) and [Dr. Feng Liu](https://fengliu90.github.io/index.html).
 
