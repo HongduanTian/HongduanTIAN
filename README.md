@@ -11,7 +11,7 @@ My interests mainly include:
 - Large Language Model & Agent
 - Learning Theory
 
-I am always open for collaborations. If you are interested, please feel free to [contact me](hongduan.tian@gmail.com)!
+I am always open for collaborations. If you are interested, please feel free to [contact me](mailto:hongduan.tian@gmail.com)!
 
 <!--
 **HongduanTian/HongduanTIAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
