@@ -5,8 +5,7 @@ Currently, I am a Ph.D. student 🧑🏻‍💻 @ [Trustworthy Machine Learning 
 Before that, I obtained my B.E. and M.E. degrees from Nanjing University of Information Science and Technology, and fortunately supervised by [Prof. Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/) and [Prof. Qingshan Liu](https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en).
 
 My interests mainly include:
-- Meta-Learning
-- Few-shot Learning
+- Meta-Learning / Few-shot Learning
 - Self-supervised Learning
 - Large Language Model & Agent 🤖️
 - Learning Theory
